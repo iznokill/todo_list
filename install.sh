@@ -15,5 +15,3 @@ echo -e "##############todo_list############\n" >> ~/.bashrc
 source ~/.bashrc
 
 mv install.sh ~/TODO/.config/
-
-mv . ~/Trash/.Lost_todo/
