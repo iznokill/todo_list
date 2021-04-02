@@ -42,7 +42,7 @@ A really simple (when I say really I mean it todo_list manager for unix based OS
    ```
 . Show content of a todo_list
    ```sh
-   whattodo filename
+   wtodo filename
    ```
 . Moves a todo_list into the .Lost_todo/ directory in the Trash
    ```sh
