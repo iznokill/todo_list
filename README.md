@@ -30,7 +30,7 @@ A really simple (when I say really I mean it todo_list manager for unix based OS
    
 3. you can remove the repo now
    ```sh
-   rm -r todo_list
+   rm -rf todo_list
    ```
 ## Usage
 
