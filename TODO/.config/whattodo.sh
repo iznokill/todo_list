@@ -1,8 +1,8 @@
 #!/bin/sh
 
-cd ~/TODO/
+cd ~/.TODO/
 
 cat $1
 
-cd - > ~/Trash/.useless
+cd - > ~/.Trash/.useless
 

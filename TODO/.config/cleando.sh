@@ -1,3 +1,3 @@
 #!/bin/sh
 
-rm -ir ~/Trash/.Lost_todo/*
+rm -ir ~/.Trash/.Lost_todo/*

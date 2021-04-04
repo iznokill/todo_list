@@ -1,7 +1,7 @@
 #!/bin/sh
 
-cd ~/TODO
+cd ~/.TODO
 
-mv $1 ~/Trash/.Lost_todo/
+mv $1 ~/.Trash/.Lost_todo/
 
-cd - > ~/Trash/.useless
+cd - > ~/.Trash/.useless

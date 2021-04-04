@@ -2,7 +2,7 @@
 
 FILE="$1"
 DATE=$(date)
-cd ~/TODO/
+cd ~/.TODO/
 echo -e "#######todo.$1#######   $DATE" >> "$FILE"
 vim "$FILE"
-cd - > ~/Trash/.useless
+cd - > ~/.Trash/.useless
